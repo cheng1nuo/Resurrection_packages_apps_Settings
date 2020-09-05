@@ -555,8 +555,8 @@
     <string name="rr_call_cat_title">来电</string>
 	
     <!--Clock-->
-    <string name="status_bar_clock_enable">启用时钟</string>
-    <string name="status_bar_clock_enable_summary">选择如何在状态栏中显示时钟</string>
+    <string name="status_bar_clock_enable">显示时钟</string>
+    <string name="status_bar_clock_enable_summary">选择是否在状态栏中显示时钟</string>
     <string name="status_bar_clock_date_settings_title">时钟 &amp; 日期</string>
     <string name="status_bar_clock_date_settings_summary">选择如何在状态栏中显示时钟 &amp; 日期</string>
     <string name="status_bar_clock_auto_hide_title">自动隐藏</string>
@@ -1169,9 +1169,9 @@
     <string name="status_bar_clock_seconds_summary">状态栏时钟显示包含秒数</string>
     <string name="status_bar_am_pm_title">上午/下午</string>
     <string name="status_bar_am_pm_info">24小时已启用</string>
-    <string name="am_pm_clock_normal">常规字体大小</string>
-    <string name="am_pm_clock_small">字体大小</string>
-    <string name="am_pm_clock_none">不再显示</string>
+    <string name="am_pm_clock_normal">常规大小</string>
+    <string name="am_pm_clock_small">小字体</string>
+    <string name="am_pm_clock_none">隐藏</string>
     <string name="clock_date_display">日期</string>
     <string name="clock_date_display_summary">在时钟前显示自定义日期</string>
     <string name="clock_date_style">日期风格</string>
@@ -1179,19 +1179,19 @@
     <string name="clock_date_format">日期格式</string>
     <string name="clock_date_string_edittext_title">必须是日期格式，例如 MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">输入字符串</string>
-    <string name="clock_date_right">左显时间</string>
-    <string name="clock_date_left">右显时间</string>
+    <string name="clock_date_right">时钟的左边</string>
+    <string name="clock_date_left">时钟的右边</string>
     <string name="clock_date_display_none">不再显示</string>
     <string name="clock_date_display_small">字体大小</string>
     <string name="clock_date_display_normal">常规字体大小</string>
     <string name="clock_date_style_normal">正常状态</string>
     <string name="clock_date_style_lowercase">小写</string>
     <string name="clock_date_style_uppercase">大写</string>
-    <string name="clock_date_format_custom">自定义 java 格式</string>
+    <string name="clock_date_format_custom">自定义时间日期格式</string>
     <string name="clock_position">时钟位置</string>
-    <string name="clock_position_right">左侧显示时钟</string>
-    <string name="clock_position_center">时钟居中</string>
-    <string name="clock_position_left">左侧时钟</string>
+    <string name="clock_position_right">右侧</string>
+    <string name="clock_position_center">居中</string>
+    <string name="clock_position_left">左侧</string>
     <string name="menu_cancel">取消操作</string>
     <string name="menu_save">保存</string>
 	
