@@ -437,7 +437,7 @@
     <string name="rr_navigation_title">导航栏设置</string>
     <string name="rr_nav_title">导航栏设置</string>
     <string name="rr_qs_title">快捷设置</string>
-    <string name="network_traffic_title">网络流量</string>
+    <string name="network_traffic_title">网速指示计</string>
     <string name="rr_recents_title">最近</string>
     <string name="rr_buttons_title">按钮设置</string>
     <string name="rr_call_title">震动</string>
@@ -1225,21 +1225,21 @@
     <string name="charging_sounds_settings_summary">自定义充电提示音</string>
 	
     <!-- Network traffic -->
-    <string name="network_traffic_settings_title">网络流量监视器</string>
+    <string name="network_traffic_settings_title">网速指示计</string>
     <string name="network_traffic_settings_summary">自定义并显示当前流量级别</string>
-    <string name="network_traffic_location_title">位置</string>
+    <string name="network_traffic_location_title">显示位置</string>
     <string name="network_traffic_location_disable">禁用</string>
     <string name="network_traffic_location_statusbar">状态栏</string>
-    <string name="network_traffic_location_quick_statusbar">快速状态栏</string>
+    <string name="network_traffic_location_quick_statusbar">QS 状态栏</string>
     <string name="network_traffic_mode_title">显示模式</string>
     <string name="network_traffic_mode_up">仅上传</string>
     <string name="network_traffic_mode_down">仅下载</string>
     <string name="network_traffic_mode_all">上传和下载</string>
     <string name="network_traffic_autohide">自动隐藏</string>
-    <string name="network_traffic_autohide_summary">网络不活跃时隐藏状态栏网速图标</string>
+    <string name="network_traffic_autohide_summary">不活跃时自动隐藏网速指示计</string>
     <string name="network_traffic_autohide_kilobits">Kb/s</string>
     <string name="network_traffic_autohide_kilobytes">KB/s</string>
-    <string name="network_traffic_autohide_threshold">网络流量隐藏阈值</string>
+    <string name="network_traffic_autohide_threshold">网速指示计的隐藏阈值</string>
     <string name="network_traffic_show_units">显示单位</string>
     <string name="network_traffic_show_units_summary">是否显示流量计量单位</string>
     <string name="network_traffic_units_title">流量计量单位</string>
@@ -1250,9 +1250,9 @@
     <string name="network_traffic_units_kilobytes">千字节/秒 (kB/s)</string>
     <string name="network_traffic_units_megabytes">兆字节/秒 (MB/s)</string>
     <string name="network_traffic_hidearrow">隐藏箭头</string>
-    <string name="network_traffic_hidearrow_summary">隐藏流量监控中的箭头</string>
-    <string name="network_traffic_refresh_interval_title">刷新间隔</string>
-    <string name="network_traffic_refresh_interval_summary">网速显示刷新频率</string>
+    <string name="network_traffic_hidearrow_summary">隐藏网速指示计中的箭头</string>
+    <string name="network_traffic_refresh_interval_title">网速指示计的刷新频率</string>
+    <string name="network_traffic_refresh_interval_summary">更快或者更慢的刷新网速指示计</string>
 	
     <!--FOD -->
     <string name="rr_fod_title">指纹显示</string>
